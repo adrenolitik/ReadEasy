@@ -1,0 +1,6 @@
+{
+  "name": "ReadEasy",
+  "description": "Адаптивная студия комфортного чтения: упрощение сложных текстов с помощью ИИ, настройка типографики для лёгкого восприятия, линейка фокусировки, озвучивание и контекстный словарь.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
